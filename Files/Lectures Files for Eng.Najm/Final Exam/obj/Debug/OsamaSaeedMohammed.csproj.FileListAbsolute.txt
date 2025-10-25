@@ -1,0 +1,10 @@
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\bin\Debug\OsamaSaeedMohammed.exe.config
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\bin\Debug\OsamaSaeedMohammed.exe
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\bin\Debug\OsamaSaeedMohammed.pdb
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.csproj.AssemblyReference.cache
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.csproj.SuggestedBindingRedirects.cache
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.csproj.CoreCompileInputs.cache
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.exe
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.pdb
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.Program.resources
+C:\Users\hpp\Desktop\OsamaSaeedMohammed\obj\Debug\OsamaSaeedMohammed.csproj.GenerateResource.cache

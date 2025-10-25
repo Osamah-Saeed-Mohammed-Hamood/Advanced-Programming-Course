@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7b0f3a1-bc90-43d4-acee-6a9e2364ad60": {
+      "ProjectGuid": "c7b0f3a1-bc90-43d4-acee-6a9e2364ad60",
+      "DisplayName": "Lab14SendToStudent",
+      "ColorIndex": 0
+    },
+    "f57fc4da-bb2e-4608-a460-ccfe8833d4c0": {
+      "ProjectGuid": "f57fc4da-bb2e-4608-a460-ccfe8833d4c0",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,88 @@
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.exe.config
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.exe
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.pdb
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.AssemblyReference.cache
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.SuggestedBindingRedirects.cache
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.Properties.Resources.resources
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.GenerateResource.cache
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.CoreCompileInputs.cache
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.exe
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.pdb
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.EmployeesForm1.resources
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\BouncyCastle.Cryptography.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Hash.xxHash.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\MySql.Data.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Buffers.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.IO.Pipelines.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Memory.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Numerics.Vectors.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\ZstdSharp.dll
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\BouncyCastle.Cryptography.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.pdb
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Hash.xxHash.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\MySql.Data.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Buffers.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.IO.Pipelines.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Memory.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Numerics.Vectors.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\works\جامعة اب\برمجة متقدمة1\lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.CopyComplete
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.exe.config
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.exe
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Lab14SendToStudent.pdb
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\BouncyCastle.Cryptography.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Hash.xxHash.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\MySql.Data.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Buffers.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.IO.Pipelines.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Memory.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Numerics.Vectors.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\ZstdSharp.dll
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\BouncyCastle.Cryptography.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.pdb
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Google.Protobuf.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\K4os.Hash.xxHash.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\MySql.Data.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Buffers.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.IO.Pipelines.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Memory.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Numerics.Vectors.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.AssemblyReference.cache
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.EmployeesForm1.resources
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.Properties.Resources.resources
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.GenerateResource.cache
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.csproj.CopyComplete
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.exe
+D:\IT\Level 3\Advanced Program\Eng. Najm\Labs\Lab14\Lab14SendToStudent\Lab14SendToStudent\obj\Debug\Lab14SendToStudent.pdb
