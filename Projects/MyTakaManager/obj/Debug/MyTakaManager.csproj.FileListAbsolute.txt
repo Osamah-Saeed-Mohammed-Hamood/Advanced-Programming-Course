@@ -1,0 +1,8 @@
+C:\Users\hpp\Desktop\MyTakaManager\bin\Debug\MyTakaManager.exe.config
+C:\Users\hpp\Desktop\MyTakaManager\bin\Debug\MyTakaManager.exe
+C:\Users\hpp\Desktop\MyTakaManager\bin\Debug\MyTakaManager.pdb
+C:\Users\hpp\Desktop\MyTakaManager\obj\Debug\MyTakaManager.csproj.AssemblyReference.cache
+C:\Users\hpp\Desktop\MyTakaManager\obj\Debug\MyTakaManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\hpp\Desktop\MyTakaManager\obj\Debug\MyTakaManager.csproj.CoreCompileInputs.cache
+C:\Users\hpp\Desktop\MyTakaManager\obj\Debug\MyTakaManager.exe
+C:\Users\hpp\Desktop\MyTakaManager\obj\Debug\MyTakaManager.pdb
